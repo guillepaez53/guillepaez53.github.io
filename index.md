@@ -3,7 +3,6 @@
 ---
 
 ## Mi primer proyecto: Telco Customer Churn
-[Telco Customer Churn](https://medium.com/pagina-entrada-blog)
 
 Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicaciones que provee servicios de telefonía e internet a hogares. El dataset indica qué clientes han desertado, quiénes han sido retenidos y quiénes se han unido en el último período, y varias características adicionales sobre ellos. [Ver código en GitHub](https://github.com/guillepaez53/portfolio-telcochurn)
 
