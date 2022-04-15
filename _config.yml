@@ -3,12 +3,6 @@ logo: "/images/Foto_CV.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist, Unquillo, Córdoba, Argentina
   <br><br>
-  Mi objetivo es desarrollarme como profesional en el ámbito de Data Science y Machine Learning, aportando valor tanto en la toma de decisiones estratégicas como aquellas que hacen al día a día de las organizaciones
-  <br><br>
-  Tengo experiencia en análisis de datos, comunicación efectiva y toma de decisiones. Excelente manejo de Excel y Access. Muy buen manejo de notebooks en Python y librerías para Análisis de Datos, Ciencia de Datos y Machine Learning (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, Statsmodels y Scikit-Learn. Buen manejo de PowerBI, PowerQuery, DAX y SQL.
-  <br><br>
-  <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
-  <br><br>
-  <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+  Mi objetivo es desarrollarme como profesional en el ámbito de DS y ML, aportando valor tanto en la toma de decisiones estratégicas como aquellas que hacen al día a día de las organizaciones.
   
 theme: jekyll-theme-minimal
