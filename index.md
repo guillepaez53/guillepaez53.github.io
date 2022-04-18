@@ -14,11 +14,11 @@ Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicacion
 
 - Análisis de Datos
 - Comunicación Efectiva con colaboradores y StakeHolders
-- Excelente manejo de Excel y Access
 - Muy buen manejo de notebooks de Python en Jupyter Lab y entornos en conda
 - Muy buen manejo de librerías para DA, DS y ML (numpy, pandas, scipy, matplotlib, seaborn, plotly, statsmodels y scikit-learn)
-- Buen manejo de PowerBI, Power Query y DAX
 - Buen manejo de SQL
+- Buen manejo de PowerBI, Power Query y DAX
+- Excelente manejo de Excel y Access
 
 ### Diplomaturas y Cursos
 
