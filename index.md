@@ -38,7 +38,8 @@ Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicacion
 
 ### Me puedes contactar por cualquiera de estas vías
 
-- Correo electrónico a <guillepaez53@gmail.com>
+- Correo electrónico a <guillermo.paez.ds@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/guillermo-paez-038b8b237/){:target="\_blank"}
 - [GitHub](https://github.com/guillepaez53/){:target="\_blank"}
 - [WhatsApp](https://wa.me/543543589432?text=Hola){:target="\_blank"}
 - [Telegram](https://t.me/GuillermoPaez1987){:target="\_blank"}
