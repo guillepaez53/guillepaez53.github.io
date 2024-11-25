@@ -41,7 +41,7 @@ El proyecto no sólo consta de la construcción del dashboard propiamente dicho,
 - Ciencia de Datos, Inteligencia Artificial y sus Aplicaciones en Economía y Negocios - 260 hs - [Certificado](pdf/Certificado-PAEZ.pdf){:target="\_blank"}
 - Análisis de Datos con Power BI - 20 hs - [Certificado](pdf/Certificado-POWER-BI.pdf){:target="\_blank"}
 - Domina DAX - 2 hs - [Certificado](pdf/UC-430b251f-187d-47bd-bf4f-83371ca2fd1d.pdf){:target="\_blank"}
-- Python para finanzas - 15 hs
+- Python para finanzas - 15 hs - [Certificado](pdf/Certificado_376.pdf){:target="\_blank"}
 
 ### Formación de Grado
 
