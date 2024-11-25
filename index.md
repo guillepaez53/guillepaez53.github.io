@@ -46,6 +46,8 @@ El proyecto no sólo consta de la construcción del dashboard propiamente dicho,
 ### Formación de Grado
 
 - Licenciado en Economía - FCE/UNC - [Título](pdf/Titulo-Universitario.pdf){:target="\_blank"} - [Analítico Pag 1](pdf/Analitico-1.jpg){:target="\_blank"} - [Analítico Pag 2](pdf/Analitico-2.jpg){:target="\_blank"}
+- Maestría en Dirección y Gestión de las Organizaciones (MBA) - UBP - En curso
+- Máster en Inteligencia Artificial Generativa - EBIS Business Techschool - En curso
 
 ### Actualmente trabajando en
 
