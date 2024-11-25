@@ -4,14 +4,17 @@
 
 ## Mi primer proyecto: Telco Customer Churn
 
-Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicaciones que provee servicios de telefonía e internet a hogares. El dataset indica qué clientes han desertado, quiénes han sido retenidos y quiénes se han unido en el último período, y varias características adicionales sobre ellos. [Ver código en GitHub](https://github.com/guillepaez53/portfolio-telcochurn){:target="\_blank"}
+Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicaciones que provee servicios de telefonía e internet a hogares. El dataset indica qué clientes han desertado, quiénes han sido retenidos y quiénes se han unido en el último período, y varias características adicionales sobre ellos.
+[Ver código en GitHub](https://github.com/guillepaez53/portfolio-telcochurn){:target="\_blank"}
 
 [<img src="images/dataset-cover.jpg?raw=true"/>](https://github.com/guillepaez53/portfolio-telcochurn){:target="\_blank"}
 
 ## Dashboard en Streamlit: Business Strategy Game
 
 En este proyecto, se elaboró un dashboard para el simulador de negocios "Business Strategy Game", o BSG, que se utiliza en el cursado del MBA de la Universidad Blas Pascal. Gracias a la utilización del dashboard durante la ejecución del juego en tiempo real, el equipo contó con una ventaja competitiva que facilitó la toma de decisiones rápidas de manera informada, y fue uno de los factores que determinó la obtención del primer lugar en el curso, y quedar en el top 100 semanal a nivel mundial.
-El proyecto no sólo consta de la construcción del dashboard propiamente dicho, sino de la limpieza y manipulación previa de los datos recibidos a través de archivos CSV totalmente desordenados y mal estructurados. [Link al dashboard](https://bsg-mbaubp-d.streamlit.app/) [Ver código en GitHub](https://github.com/guillepaez53/bsg_dashboard/tree/master){:target="\_blank"}
+El proyecto no sólo consta de la construcción del dashboard propiamente dicho, sino de la limpieza y manipulación previa de los datos recibidos a través de archivos CSV totalmente desordenados y mal estructurados.
+[Link al dashboard](https://bsg-mbaubp-d.streamlit.app/)
+[Ver código en GitHub](https://github.com/guillepaez53/bsg_dashboard/tree/master){:target="\_blank"}
 
 ---
 
