@@ -12,7 +12,7 @@ Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicacion
 
 ## Dashboard en Streamlit: Business Strategy Game
 
-En este proyecto, se elaboró un dashboard para el simulador de negocios "Business Strategy Game", o BSG, que se utiliza en el cursado del MBA de la Universidad Blas Pascal. Gracias a la utilización del dashboard con la información resultante de la ejecución del juego en tiempo real, el equipo se encontró en condiciones de tomar de decisiones de manera rápida e informada. Esto fue una ventaja competitiva que, junto con otros factores, determinó la obtención del primer lugar en el curso, y quedar en el top 100 semanal a nivel mundial.
+En este proyecto, se elaboró un dashboard para el simulador de negocios "Business Strategy Game", o BSG, que se utiliza en el cursado del MBA de la Universidad Blas Pascal. Gracias a la utilización del dashboard con la información resultante de la ejecución del juego en tiempo real, el equipo pudo tomar de decisiones de manera rápida e informada. Esto fue una ventaja competitiva que, junto con otros factores, determinó la obtención del primer lugar en el curso, y quedar en el top 100 semanal a nivel mundial.
 
 El proyecto no sólo consta de la construcción del dashboard propiamente dicho, sino de la limpieza y manipulación previa de los datos recibidos a través de archivos CSV totalmente desordenados y mal estructurados.
 
