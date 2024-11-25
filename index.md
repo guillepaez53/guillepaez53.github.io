@@ -12,19 +12,24 @@ Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicacion
 
 ### Mis Skills son
 
-- Análisis de Datos
-- Comunicación Efectiva con colaboradores y StakeHolders
-- Muy buen manejo de notebooks de Python en Jupyter Lab y entornos en conda
-- Muy buen manejo de librerías para DA, DS y ML (numpy, pandas, scipy, matplotlib, seaborn, plotly, statsmodels y scikit-learn)
+- Conocimientos sólidos de estadística y econometría aplicada
+- Muy buen manejo de notebooks de Python en Google Colab, VSC, Jupyter Notebook, JupyterLab y gestión entornos en conda
+- Muy buen manejo de librerías para DA, DS y ML (numpy, pandas, scipy, matplotlib, seaborn, plotly, streamlit, statsmodels, scikit-learn, etc.)
 - Buen manejo de SQL
 - Buen manejo de PowerBI, Power Query y DAX
 - Excelente manejo de Excel y Access
+- Capacidad analítica y resolución de problemas
+- Comunicación efectiva con colaboradores y StakeHolders
+- Orientación al trabajo en equipo
+- Motivación y aprendizaje continuo
+- Liderazgo
 
 ### Diplomaturas y Cursos
 
 - Ciencia de Datos, Inteligencia Artificial y sus Aplicaciones en Economía y Negocios - 260 hs - [Certificado](pdf/Certificado-PAEZ.pdf){:target="\_blank"}
 - Análisis de Datos con Power BI - 20 hs - [Certificado](pdf/Certificado-POWER-BI.pdf){:target="\_blank"}
 - Domina DAX - 2 hs - [Certificado](pdf/UC-430b251f-187d-47bd-bf4f-83371ca2fd1d.pdf){:target="\_blank"}
+- Python para finanzas - 15 hs
 
 ### Formación de Grado
 
@@ -32,7 +37,7 @@ Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicacion
 
 ### Actualmente trabajando en
 
-- Universidad Blas Pascal - Prodirector de Gestión Académica
+- Universidad Blas Pascal - Director de Gestión Académica
 
 ---
 
