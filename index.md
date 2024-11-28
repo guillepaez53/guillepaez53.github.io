@@ -2,6 +2,16 @@
 
 ---
 
+## Dashboard en Streamlit: Business Strategy Game
+
+En este proyecto, se elaboró un dashboard para el simulador de negocios "Business Strategy Game", o BSG, que se utiliza en el cursado de diversos MBA y otras carreras de negocios alrededor del mundo. Gracias a la utilización del dashboard con la información resultante de la ejecución del juego en tiempo real, el equipo podía revisar rápidamente las decisiones que tomadas por los demás equipos en cada ronda anterior, lo que facilitó la toma de las propias decisiones de manera informada. Esto fue una ventaja competitiva que, junto con el buen hacer del equipo, fue determinante en la obtención del primer lugar en el curso, y en haber logrado el puesto 37 a nivel mundial en la semana.
+
+Cabe destacar que el proyecto consta no sólo de la construcción del dashboard propiamente dicho, sino también de la limpieza y manipulación previa de los datos, los cuales pueden obtenerse exportando un conjunto de archivos CSV desde la plataforma del simulador, exportando, pero que están mal estructurados y completamente desordenados.
+
+[Link al dashboard](https://bsg-mbaubp-d.streamlit.app/){:target="\_blank"}
+
+[Ver código en GitHub](https://github.com/guillepaez53/bsg_dashboard/tree/master){:target="\_blank"}
+
 ## Mi primer proyecto: Telco Customer Churn
 
 Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicaciones que provee servicios de telefonía e internet a hogares. El dataset indica qué clientes han desertado, quiénes han sido retenidos y quiénes se han unido en el último período, y varias características adicionales sobre ellos.
@@ -9,16 +19,6 @@ Este proyecto trabaja con un dataset de una empresa ficticia de telecomunicacion
 [Ver código en GitHub](https://github.com/guillepaez53/portfolio-telcochurn){:target="\_blank"}
 
 [<img src="images/dataset-cover.jpg?raw=true"/>](https://github.com/guillepaez53/portfolio-telcochurn){:target="\_blank"}
-
-## Dashboard en Streamlit: Business Strategy Game
-
-En este proyecto, se elaboró un dashboard para el simulador de negocios "Business Strategy Game", o BSG, que se utiliza en el cursado del MBA de la Universidad Blas Pascal. Gracias a la utilización del dashboard con la información resultante de la ejecución del juego en tiempo real, el equipo pudo tomar de decisiones de manera rápida e informada. Esto fue una ventaja competitiva que, junto con otros factores, determinó la obtención del primer lugar en el curso, y quedar en el top 100 semanal a nivel mundial.
-
-El proyecto no sólo consta de la construcción del dashboard propiamente dicho, sino de la limpieza y manipulación previa de los datos recibidos a través de archivos CSV totalmente desordenados y mal estructurados.
-
-[Link al dashboard](https://bsg-mbaubp-d.streamlit.app/){:target="\_blank"}
-
-[Ver código en GitHub](https://github.com/guillepaez53/bsg_dashboard/tree/master){:target="\_blank"}
 
 ---
 
